@@ -9,3 +9,4 @@ This repository is still in development and it contains all design patterns used
 - Singleton Pattern
 - Builder Pattern
 - Factory Pattern
+- Prototype Pattern
