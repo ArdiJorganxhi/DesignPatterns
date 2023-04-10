@@ -10,3 +10,4 @@ This repository is still in development and it contains all design patterns used
 - Builder Pattern
 - Factory Pattern
 - Prototype Pattern
+- Bridge Pattern
