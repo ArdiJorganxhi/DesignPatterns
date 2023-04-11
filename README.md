@@ -12,3 +12,4 @@ This repository is still in development and it contains all design patterns used
 - Prototype Pattern
 - Bridge Pattern
 - Decorator Pattern
+- Strategy Pattern
