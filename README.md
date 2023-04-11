@@ -11,3 +11,4 @@ This repository is still in development and it contains all design patterns used
 - Factory Pattern
 - Prototype Pattern
 - Bridge Pattern
+- Decorator Pattern
