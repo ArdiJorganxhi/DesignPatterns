@@ -15,3 +15,4 @@ This repository is still in development and it contains all design patterns used
 - Strategy Pattern
 - Composite Pattern
 - Facade Pattern
+- Adapter Pattern
