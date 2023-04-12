@@ -16,3 +16,4 @@ This repository is still in development and it contains all design patterns used
 - Composite Pattern
 - Facade Pattern
 - Adapter Pattern
+- State Pattern
