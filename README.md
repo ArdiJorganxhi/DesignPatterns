@@ -18,3 +18,4 @@ This repository is still in development and it contains all design patterns used
 - Adapter Pattern
 - State Pattern
 - Mediator Pattern
+- Proxy Pattern
