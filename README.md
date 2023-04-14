@@ -20,3 +20,4 @@ This repository is still in development and it contains all design patterns used
 - Mediator Pattern
 - Proxy Pattern
 - Template Pattern
+- Command Pattern
