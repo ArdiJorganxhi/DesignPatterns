@@ -21,3 +21,4 @@ This repository is still in development and it contains all design patterns used
 - Proxy Pattern
 - Template Pattern
 - Command Pattern
+- Chain of Responsibility Pattern
