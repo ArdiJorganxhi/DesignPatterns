@@ -1,9 +1,6 @@
 package ChainOfResponsibility;
 
 public class ATMDispenser {
-
-
-
     public DispenseChain euro200;
     public ATMDispenser() {
         euro200 = new Euro200Dispense();
